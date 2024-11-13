@@ -1,4 +1,6 @@
-# Sofast Quicklinks Export
+# ~~Sofast Quicklinks Export~~
+
+该项目已由内置的 `导出快捷链接` 指令代替。
 
 ## 界面演示
 
